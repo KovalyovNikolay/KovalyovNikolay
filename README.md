@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - C++ / JS
 - Jira / Redmine
 - Scripts (some sicret script tools for automation -_-)
-- Master skill on Discourd -_-
+- Master skill on Discord -_- and Google sheets
 
 ## Учусь
 Учусь на Youtube, Udemy, sololearn, devtodev, Yandex, GeekBrains и других доступных платформах. Сейчас прохожу курс на [GeekBrains](https://go.redav.online/26ea4dbaac6a9350?erid=LdtCKEePH). 
