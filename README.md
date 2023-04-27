@@ -28,8 +28,8 @@
 [![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=2580f7)](https://start.atlassian.com)
 [![confluence](https://img.shields.io/badge/confluence-000000?style=for-the-badge&logo=confluence&logoColor=2580f7)](https://start.atlassian.com)
 ![Scripts](https://img.shields.io/badge/Scripts-000000?style=for-the-badge&logo=Scripts)
-[![google sheets](https://img.shields.io/badge/googlesheets-000000?style=for-the-badge&logo=googlesheets&logoColor=23a063)](https://start.atlassian.com)
-[![miro](https://img.shields.io/badge/miro-000000?style=for-the-badge&logo=miro&logoColor=f6be31)](https://start.atlassian.com)
+[![google sheets](https://img.shields.io/badge/googlesheets-000000?style=for-the-badge&logo=googlesheets&logoColor=23a063)](https://docs.google.com/spreadsheets/u/0/)
+[![miro](https://img.shields.io/badge/miro-000000?style=for-the-badge&logo=miro&logoColor=f6be31)](https://miro.com/app/dashboard/)
 
 # Учусь
 Учусь на Youtube, Udemy, sololearn, devtodev, Yandex, GeekBrains и других доступных платформах. Сейчас прохожу курс на [GeekBrains](https://go.redav.online/26ea4dbaac6a9350?erid=LdtCKEePH). Хотя их курс, это курс от [Skillbox](https://go.redav.online/b69a087be011bfb0?erid=LdtCKL1wM).
