@@ -6,6 +6,8 @@
 # Обо мне
 Привет! Я Ковалёв Николай. Дизайнер, программист, инженер контроля качества. Начинал с простых баз данных и клиенстких приложений на Delphi. Просытх сайтов на wordpress. Простых таблиц в MS и Google. Сейчас изучаю "качество" в GameDev от Тестировщика до QA. 
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/NikolayVKov)
+
 # Сейчас я работаю над
 Уже более 4х лет работаю над проектом [Will to live online](https://wtlgame.com/). Это MMORPG-шутер от первого лица с элементами выживания, действие которого разворачивается на пустошах постапокалиптического мира. Игроку предстоит исследовать большой открытый мир, полный опасных мест, радиации, мутантов и вооруженных выживших.
 ### Узнать о проекте можно тут
@@ -38,6 +40,9 @@
 # Контакты
 [![Sololearn profile](https://img.shields.io/badge/Sololearn-000000?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/4702063)
 [![LinkedIN profile](https://img.shields.io/badge/LinkedIN-000000?style=for-the-badge&logo=LinkedIN)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D1%91%D0%B2-297b65183/)
+
+
+
 
 ![](https://github.com/KovalyovNikolay/KovalyovNikolay/blob/main/Assets/74EJ.gif?raw=true)
 
